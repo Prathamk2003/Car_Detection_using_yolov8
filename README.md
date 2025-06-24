@@ -67,13 +67,19 @@ car-object-detection-yolov8/
 ## Run the Notebook:
 
 Open and execute yolov8_car_detection.ipynb in Jupyter Notebook or VS Code. The notebook will:
+
 Train a YOLOv8 model on the dataset
+
 Save the trained model to a .pt file (e.g., best.pt)
+
 Launch a real-time detection window for inference and visualization
 
 ## 🎯 Output
 
 A trained YOLOv8 model saved as best.pt
+
 Real-time object detection window for live testing
+
 Detection results and annotated frames
+
 Training metrics and logs saved in the runs/ directory
