@@ -1,4 +1,4 @@
-# Car Object Detection using YOLOv8
+# Car Object Detection using YOLOv8 
 
 This project performs object detection on images of cars using the YOLOv8 architecture from the Ultralytics library. It includes a pipeline for training, evaluation, and visualization.
 
